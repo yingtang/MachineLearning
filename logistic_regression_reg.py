@@ -9,7 +9,7 @@
     
     @yingtang 
 
-note: feature normalization is necessary
+note: feature normalization is not necessary here
 
 '''
 
